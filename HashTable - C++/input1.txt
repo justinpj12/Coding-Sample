@@ -1,0 +1,27 @@
+20
+
+35282,Birmingham,Alabama
+99701,Fairbanks,Alaska
+85117,Apache Junction,Arizona
+85001,Phoenix,Arizona
+M3C0C1,Toronto,Ontario
+35401,Tuscaloosa,Alabama
+35801,Huntsville,Alabama
+99502,Anchorage,Alaska
+E2H2J3,Saint John,New Brunswick
+B3H2E8,Halifax,Nova Scotia
+85122,Casa Grande,Arizona
+85250,Scottsdale,Arizona
+85280,Tempe,Arizona
+
+35802
+85122
+45401
+E2H3J2
+35282
+B3H2E8
+B3H2E9
+20250
+85380
+85280
+

@@ -1,0 +1,33 @@
+37
+
+90003,Los Angeles,California
+07017,East Orange,New Jersey
+07533,Paterson,New Jersey
+V0C2T0,Altona,British Columbia
+84336,Snowville,Utah
+80303,Boulder,Colorado
+80155,Englewood,Colorado
+73301,Austin,Texas
+75155,Rice,Texas
+R0H0B0,Amaranth,Manitoba
+07097,Jersey City,New Jersey
+91105,Pasadena,California
+90264,Malibu,California
+T0C0C0,Alsike,Alberta
+98277,Oak Harbor,Washington
+84106,Salt Lake City,Utah
+75201,Dallas,Texas
+77002,Houston,Texas
+
+77001
+75401
+T0C0C0
+80155
+V0E2T0
+90003
+07099
+75155
+0701E
+84304
+73301
+R0H0B0

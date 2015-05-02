@@ -1,0 +1,22 @@
+25
+
+84023,Dutch John,Utah
+84336,Snowville,Utah
+84318,Hyde Park,Utah
+75189,Royse City,Texas
+75141,Hutchins,Texas
+H1A0A1,Montreal,Quebec
+G0W1N0,Desbiens,Quebec
+07208,Elizabeth,New Jersey
+07533,Paterson,New Jersey
+90802,Long Beach,California
+
+84023
+H1A0A1
+75188
+G0W1N0
+90802
+84319
+84338
+75189
+
