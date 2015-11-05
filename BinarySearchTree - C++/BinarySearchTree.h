@@ -163,7 +163,7 @@ BinarySearchTree::~BinarySearchTree()//Destructor
             //if node is right of it's parent make right null
             if (node->getParent() != NULL && node == node->getParent()->getRight()) {
                 node->getParent()->setRight(NULL);
-            }
+            }\
             //delete node and getParent for next node
             x++;
             node = node->getParent();
@@ -407,7 +407,9 @@ bool BinarySearchTree::treeInsert(string city, string state, string zipcode)
          }
          else {
              leftChild = false;
-             previous = node; node = node->getRight(); }
+             previous = node; 
+			 node = node->getRight(); 
+		}
      }
      ZipInfo *newNode = new ZipInfo(city, state, zipcode);
 
